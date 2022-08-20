@@ -7,7 +7,7 @@ This is the clone of the Shopify website. I have build this with the help of `HT
 ### It takes approximately 20 hours to complete it.
 
 You can visite the website by clicking this link
-[Live Link]()
+[Live Link](https://shopifyclone-tailwind.netlify.app)
 
 ![Screenshot](/Shopify.png)
 
